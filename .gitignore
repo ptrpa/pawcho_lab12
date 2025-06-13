@@ -1,0 +1,9 @@
+#
+*.log
+*.pid
+.env
+# 
+mysql_data/
+#
+.DS_Store
+
